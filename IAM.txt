@@ -1,0 +1,6 @@
+IAM url - https://323277630822.signin.aws.amazon.com/console
+User name - joseph
+Console password -LX1eRg8)
+New password - Tushaun@92
+Access key - AKIAUWRGZFVTL435M25K
+Secret key - 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
